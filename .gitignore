@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# build sources (kept on disk for rebuilds, never committed: each >4,096 B)
+engine.py
+engine_min.py
+engine_stripped.py
+main_min.py
+minify.py
